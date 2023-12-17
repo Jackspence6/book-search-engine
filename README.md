@@ -6,7 +6,7 @@ Book Search Engine, built using the MERN stack and GraphQL, offers a dynamic pla
 
 ## Live Heroku Link
 
-Experience the Book Search Engine live on Heroku: [Book Search Engine](TBA)
+Experience the Book Search Engine live on Heroku: [Book Search Engine](https://dry-plateau-41106-a596581b073c.herokuapp.com/)
 
 ## Table of Contents
 
